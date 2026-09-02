@@ -123,35 +123,13 @@
 
 <div align="center">
   <a href="https://github.com/5u17im">
-    <img src="https://github-readme-stats.vercel.app/api?username=5u17im&show_icons=true&title_color=00FF66&icon_color=00FF66&text_color=A0FFA0&bg_color=050D09&border_color=00FF6640&hide_border=false" height="155" alt="5u17im Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=5u17im&show_icons=true&title_color=00FF66&icon_color=00FF66&text_color=A0FFA0&bg_color=050D09&border_color=00FF66&hide_border=false" height="155" alt="5u17im Stats" />
   </a>
   <a href="https://github.com/5u17im">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5u17im&layout=compact&title_color=00FF66&text_color=A0FFA0&bg_color=050D09&border_color=00FF6640&hide_border=false" height="155" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=5u17im&layout=compact&title_color=00FF66&text_color=A0FFA0&bg_color=050D09&border_color=00FF66&hide_border=false" height="155" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/5u17im">
-    <img src="https://streak-stats.demolab.com?user=5u17im&theme=dark&background=050D09&border=00FF6640&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=A0FFA0&dates=70B080" height="155" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=5u17im&theme=dark&background=050D09&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=A0FFA0&dates=70B080" height="155" alt="GitHub Streak" />
   </a>
-</div>
-
-<br/>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>⚡ Powered by <b>NothingSense</b> | Crafted with precision & clean code</sub>
 </div>
