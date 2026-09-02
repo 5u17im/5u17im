@@ -133,3 +133,17 @@
     <img src="https://streak-stats.demolab.com?user=5u17im&theme=dark&background=050D09&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=A0FFA0&dates=70B080" height="155" alt="GitHub Streak" />
   </a>
 </div>
+
+<br/>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/5u17im/5u17im/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
